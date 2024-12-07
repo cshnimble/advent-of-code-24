@@ -20,6 +20,3 @@ for r in res:
       do = False
 
 print('Part 2: {}'.format(total))
-
-# (don\'t\(\).*mul\(\d+,\d+\)).*(?=do\(\))
-# (do\(\))|(don\'t\(\))|(mul\(\d+,\d+\))
